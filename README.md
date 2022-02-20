@@ -1,5 +1,9 @@
 # Algorithm-Study
 
+## 일정
+매주 일요일 오후 8시
+
+## 문제
 | Week | Topic | Problem | 응~기잇! | | |
 | --- | --- | --- | --- | --- | --- |
 | 1주차 | 그리디 알고리즘 | [설탕 배달](https://www.acmicpc.net/problem/2839) | [동전 0](https://www.acmicpc.net/problem/11047) | | |
